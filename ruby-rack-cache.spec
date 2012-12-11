@@ -28,3 +28,10 @@ rm -rf %{buildroot}%{ruby_gemdir}/cache
 %{ruby_gemdir}/gems/%{rname}-%{version}
 %{ruby_gemdir}/specifications/%{rname}-%{version}.gemspec
 %doc %{ruby_gemdir}/doc/%{rname}-%{version}
+
+
+%changelog
+* Fri May 04 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 1.2-1
++ Revision: 795850
+- imported package ruby-rack-cache
+
