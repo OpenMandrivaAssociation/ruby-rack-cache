@@ -3,7 +3,7 @@
 Name:		ruby-rack-cache
 Summary:	Ruby component to enable HTTP caching for Rack-based applications
 Version:	1.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Ruby
 URL:		http://rubygems.org/gems/rack-cache
