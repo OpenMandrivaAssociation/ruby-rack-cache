@@ -6,7 +6,7 @@ Version:	1.2
 Release:	2
 License:	MIT
 Group:		Development/Ruby
-URL:		http://rubygems.org/gems/rack-cache
+URL:		https://rubygems.org/gems/rack-cache
 Source0:	http://rubygems.org/downloads/rack-cache-1.2.gem
 BuildArch:	noarch
 BuildRequires:	ruby-RubyGems
